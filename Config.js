@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "94770846837"
-global.ownername = "MATHIYA"
+global.ownernomer = "94760552994"
+global.ownername = "KAVIYA"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Sri Lanka"
+global.location = "Indian"
 
-global.ownernumber = '94770846837'  //creator number
+global.ownernumber = '94760552994'  //creator number
 global.ownername = 'Ayush' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
@@ -27,8 +27,8 @@ global.support = 'https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8'
 global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
